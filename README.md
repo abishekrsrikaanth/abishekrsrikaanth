@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## I’m Abishek R Srikaanth, a Full Stack Developer from Bangalore, India building cool stuff using Laravel, Livewire, Tailwind and AlpineJS. I sometimes work with VueJS as well.
+
+I work on building really cool websites, products and applications. I co-founded Greenlyst a CBD Dropshipping application and the CTO for Soundstage.fm.
+I am currently learning to build electron apps and hopeful to launch some cool developer tools soon.
+
+You can look at some of my work here. https://workdoneright.co/
+
 <!--
 **abishekrsrikaanth/abishekrsrikaanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
