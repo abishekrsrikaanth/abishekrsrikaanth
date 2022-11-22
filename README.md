@@ -7,6 +7,8 @@ I am currently learning to build electron apps and hopeful to launch some cool d
 
 You can look at some of my work here. https://workdoneright.co/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishekrsrikaanth)](https://www.workdoneright.co)
+
 <!--
 **abishekrsrikaanth/abishekrsrikaanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
